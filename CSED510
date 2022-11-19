@@ -1,0 +1,139 @@
+# Educational Technology Plan
+
+Provide a brief description of the purpose of your educational technology Plan.
+
+The educational technology plan is being created to address computational thinking skills. The need is that students are excellent at looking up facts, doing research.  However their thinking skills could be better developed.  This course requires both protocols based on facts and the ability for students to think. 
+
+Independent thinking is a skill and collaborative thinking is also a skill.  This course will require students to problem solve independently and collaborate on solutions in order to reach a consensus on the best strategy.  
+
+### Course
+
+Describe your course including the name, description, and grade level
+
+The course will be called Computational Thinking with Scratch, and is geared towards middle school students ages 10-14, pre-high school. 
+
+The course will rely on the pedagogy of step-by-step self paced videos, self paced practice with immediate feedback, exposure to block-based problem sets, collaborative conversations, peer and teacher feedback.   
+
+### Situation
+
+Provide relevant details about your course and/or school that will influence the
+decisions in the plan. What assets and constraints do you face? What is the
+context of your class, considering demographic and technical resources?
+
+The McKinley Institute of Technology is a title 1 school located in Silicon Valley. Primarily students are of Latinx with strong bi-lingual skills and great attitudes. Influencing the plan is the fact that computational thinking does not fall under the traditional math/science/or other disciplines and therefore is not required in elementary schools. The result is computational thinking ends up being taught as an elective class.  One positive is the caliber of students that will participate because they chose the class.  Technical infrastructure at the school site is strong, wifi is consistently high speed and the proxy filter allows access to all required resources.
+
+Classroom logistics allow students to sit at tables in groups of three or four, abundant white boards, natural light supplemented by electric light, all in a climate controlled environment.    
+
+There is cooperation-competition between the middle schools in the district to offer students to most engaging elective classes which results in the site principal being motivated to support the computational thinking class.   
+
+The Redwood City School District (RCSD) has privacy policies that alligin with Family Education Right and Privacy Act (FERPA) and are important in protecting students’ identification.  The gmail addresses that students use are acceptable forms of identification because of encryption which does not reveal the students’ first and last names.  However, according to a 2019 evaluation by Common Sense Media the Scratch software scores low, not passing, with a 47% privacy rating.  Eighth percentile and above are considered passing scores.  As of a current decision by RCSD personnel on the software adoption committee, Scratch is okay for student use based on the long standing precedent.  
+
+In the years ahead two things might change regarding RCSD allowing access to Scratch; Scratch might allow student login with the encrypted gmail identifications which would be very helpful, or the RCSD might remove permissions to access Scratch.    
+
+## Plan
+
+### Software Specifications
+
+Describe the software that you will use. Include software used for students as
+as well as any software the instructor will use. This should include any software
+installed as well as any online services.
+
+Software;
+Google Slides will be used by the teacher to share content with students. 
+Scratch, will be used as the block based programming tool of choice.  It is within Scratch that students will learn and practice skills and work on challenge exercises.  
+Pico, Fermi, Bagels, and Wordle, are web applications that allow students to practice logic and get immediate feedback, trial and error.  The cognitive practice supports problem solving for the human brain which translates into skills for computer science.  
+Google Classroom, will host student rosters, class assignments, provide the forum for peer and teacher feedback, and manage and display scores/grades.
+Chrome OS will run the Chromebook hardware.
+Chrome Browser, will allow access to Google Slides, Google Classroom, Scratch, and Pico, Fermi, Bagels.   
+
+### Hardware Specifications
+
+Describe the hardware requirements for your class. Provide specific requirements
+wherever necessary.
+Equal to or better
+10 Gen Intel Core i3-1011OU Processor at 2.1 GHz
+Touchscreen
+Wi-Fi
+Bluetooth
+720 p webcam
+
+
+### Application
+
+Describe how you will use the above technologies in the class, including
+in-class activities, homework, assignments, and assessment. Justify the use
+in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+Learning Outcomes
+Apply problem-solving techniques for computation thinking
+Describe an algorithm in terms of its process and rules
+Design and create solutions to problems using a graphical block-based programming language.
+
+
+Topics
+What is coding? 
+Video and Activity 1, The history of languages is the place to start the conversation. 
+Video and Activity 2, The information revolution is based on machines being able to input/process/output data. 
+Devices, RAM and CPU
+Video and Activity 1, What is the file cabinet and motor for 100 Alex?
+Flow Diagrams
+Video and Activity 1,  Every great scientist is also a good communicator.  
+Video and Activity 2, The universal tool of coders is a graphical representation of the workflow process.  
+Bits & Bytes
+Video and Activity 1, The Power of Eight
+Binary Numbers
+Video and Activity 1, Tell me more with Ones and Zeros (representing binary)
+Video and Activity 2, Adding binary numbers
+Video and Activity 3, Subtracting binary numbers
+What are coordinates?
+Video and Activity, Good news, the same as the x,  y, and z axis conversations in Algebra.
+Constructs
+Video and Activity 1, What is sequence?
+Video and Activity 2, What is selection?
+Video and Activity 3, What is iteration? 
+Sorting
+Video and Activity 1, If every story has a beginning, middle and an end…
+Video and Activity 2, Sort first names of students in the class using bubble sort. 
+Video and Activity 3, Sort first names of students in the class 
+Functions
+Video and Activity 1, short or long, functions are chunks of code
+Logic game Bagels, Pico, Fermi
+Video and Activities, recurring
+Logic game, Wordle
+Video and Activities, recurring 
+Scratch skills, self paced demonstrations
+Video 1, creating background
+Video 2, creating a sprite
+Video 3, creating controls to move a sprite
+Video 4, using coordinates
+Video 4, if on edge bounce
+Video 5, having the sprite interact with conditionals
+Video 6, keeping a game score
+Video 7, animation with voice over
+Video 8, remix
+
+Design Challenges (student projects with collaborative feedback from peers and teacher)
+Design Challenge 1, Move the sprite and face direction 
+Design Challenge 2, Draw a letter using sprite as a writing instrument
+Design Challenge 3, Animate your name
+Design Challenge 4, Bounces off the 4 display boundaries 
+Design Challenge 5, Bird Game, two objects interacting
+Design Challenge 6, Catch game, two objects interacting
+Design Challenge 7, Working with Bits
+Design Challenge 8, Frogger
+
+### Impacts
+
+How will the technology help *all* students learn? In this section, you can also
+describe how you address class resiliency, such as adapting to
+transitions to virtual education, social/legal/ethical challenges,  and/or
+evolving course contexts.
+
+The goal of the class is to engage students in a positive way that makes them want more computer science.  Working together are the pedagogy and technology to allow students a blend of self paced and collaborative learning.  The result should be students finding a comfortable pace and level of challenge which matches their learning style.  Some students will skim the surface of the capabilities with the Scratch application while others will go even further.  Both results will be deemed successful if the attitude of the student is wanting more.
+
+Because the class is an elective there is built-in feedback for the teacher and administration regarding the success; lots of interest during the sign-up period shows that the class is being well received.  Conversely if there were few student sign ups for the class it would be suggesting that student resiliency needs attention and at that time the teacher and administration should evaluate next steps.  
+
+By nature of students electing to take the class this eliminates much of the social and ethical challenges. The school administration is ultimately responsible for the demographics of the class, during the development of the class roster.  Algorithms could be built to bias specific groups of students, such as social economic, race, gender, or underserved.  
+
+Legally the class is completely licensed from a curriculum and software applications point of view and follows guidance from the Family Education Right and Privacy Act (FERPA), and from Common Sense Media evaluations.  Therefore the class is being offered in a safe and legally responsible manner.    
+
